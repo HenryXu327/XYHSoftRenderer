@@ -5,12 +5,12 @@ A pure software rasterization renderer for the Windows platform that does not re
 - 开发环境：Windows平台，除Windows.h、WindowsX.h、gdiplus.h无其他外部库，仅使用WindowsGDI绘制像素点功能，全C++实现
 - 基本功能：支持3D模型渲染、纹理映射（包括生成Mipmap三线性插值）、经验模型光照等
 
-![纹理](D:\Typora\assets\纹理-1744883016374-1.png)
+![纹理](/展示结果/纹理.png)
 
-![光照](https://github.com/HenryXu327/XYHSoftRenderer/blob/main/%E5%B1%95%E7%A4%BA%E7%BB%93%E6%9E%9C/%E5%85%89%E7%85%A7.png)
+![光照](/展示结果/光照.png)
 
-![纹理+光照](D:\Typora\assets\纹理+光照-1744883016374-3.png)
+![纹理+光照](/展示结果/纹理+光照.png)
 
-<video src=".\展示结果/演示视频.mp4"></video>
+<video src="/展示结果/演示视频.mp4"></video>
 
 ## 
