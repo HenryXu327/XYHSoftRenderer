@@ -12,5 +12,6 @@ A pure software rasterization renderer for the Windows platform that does not re
 ![纹理+光照](/展示结果/纹理+光照.png)
 
 <video src="/展示结果/演示视频.mp4"></video>
+（视频请到展示结果文件夹中查看）
 
 ## 
