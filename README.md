@@ -7,7 +7,7 @@ A pure software rasterization renderer for the Windows platform that does not re
 
 ![纹理](D:\Typora\assets\纹理-1744883016374-1.png)
 
-![光照](D:\Typora\assets\光照-1744883016374-2.png)
+![光照](https://github.com/HenryXu327/XYHSoftRenderer/blob/main/%E5%B1%95%E7%A4%BA%E7%BB%93%E6%9E%9C/%E5%85%89%E7%85%A7.png)
 
 ![纹理+光照](D:\Typora\assets\纹理+光照-1744883016374-3.png)
 
