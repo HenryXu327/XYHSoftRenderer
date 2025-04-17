@@ -1,0 +1,100 @@
+﻿  Buffer.cpp
+D:\VisualStudioProjects\XYHSoftRenderer\XYHSoftRenderer\src\Buffer.cpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\VisualStudioProjects\XYHSoftRenderer\XYHSoftRenderer\include\Buffer.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\VisualStudioProjects\XYHSoftRenderer\XYHSoftRenderer\include\Vector.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\VisualStudioProjects\XYHSoftRenderer\XYHSoftRenderer\include\MyMath.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\VisualStudioProjects\XYHSoftRenderer\XYHSoftRenderer\include\Matrix.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  Camera.cpp
+D:\VisualStudioProjects\XYHSoftRenderer\XYHSoftRenderer\src\Camera.cpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\VisualStudioProjects\XYHSoftRenderer\XYHSoftRenderer\include\Camera.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\VisualStudioProjects\XYHSoftRenderer\XYHSoftRenderer\include\Vector.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\VisualStudioProjects\XYHSoftRenderer\XYHSoftRenderer\include\Matrix.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\VisualStudioProjects\XYHSoftRenderer\XYHSoftRenderer\include\MyMath.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  Color.cpp
+  math.cpp
+D:\VisualStudioProjects\XYHSoftRenderer\XYHSoftRenderer\include\MyMath.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\VisualStudioProjects\XYHSoftRenderer\XYHSoftRenderer\include\Vector.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\VisualStudioProjects\XYHSoftRenderer\XYHSoftRenderer\include\Matrix.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  Matrix.cpp
+D:\VisualStudioProjects\XYHSoftRenderer\XYHSoftRenderer\include\Matrix.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\VisualStudioProjects\XYHSoftRenderer\XYHSoftRenderer\include\Vector.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\VisualStudioProjects\XYHSoftRenderer\XYHSoftRenderer\include\MyMath.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  Object.cpp
+  ObjFileReader.cpp
+D:\VisualStudioProjects\XYHSoftRenderer\XYHSoftRenderer\src\ObjFileReader.cpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\VisualStudioProjects\XYHSoftRenderer\XYHSoftRenderer\include\ObjFileReader.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\VisualStudioProjects\XYHSoftRenderer\XYHSoftRenderer\include\Object.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\VisualStudioProjects\XYHSoftRenderer\XYHSoftRenderer\include\Matrix.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\VisualStudioProjects\XYHSoftRenderer\XYHSoftRenderer\include\Vector.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\VisualStudioProjects\XYHSoftRenderer\XYHSoftRenderer\include\MyMath.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\VisualStudioProjects\XYHSoftRenderer\XYHSoftRenderer\src\ObjFileReader.cpp(131,55): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+D:\VisualStudioProjects\XYHSoftRenderer\XYHSoftRenderer\src\ObjFileReader.cpp(142,55): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+D:\VisualStudioProjects\XYHSoftRenderer\XYHSoftRenderer\src\ObjFileReader.cpp(153,53): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+D:\VisualStudioProjects\XYHSoftRenderer\XYHSoftRenderer\src\ObjFileReader.cpp(168,67): warning C4267: “参数”: 从“size_t”转换到“_Ty”，可能丢失数据
+          with
+          [
+              _Ty=int
+          ]
+D:\VisualStudioProjects\XYHSoftRenderer\XYHSoftRenderer\src\ObjFileReader.cpp(294,49): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  Renderer.cpp
+D:\VisualStudioProjects\XYHSoftRenderer\XYHSoftRenderer\include\Buffer.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\VisualStudioProjects\XYHSoftRenderer\XYHSoftRenderer\include\Vector.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\VisualStudioProjects\XYHSoftRenderer\XYHSoftRenderer\include\Object.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\VisualStudioProjects\XYHSoftRenderer\XYHSoftRenderer\include\Matrix.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\VisualStudioProjects\XYHSoftRenderer\XYHSoftRenderer\include\MyMath.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\VisualStudioProjects\XYHSoftRenderer\XYHSoftRenderer\include\Shader.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\VisualStudioProjects\XYHSoftRenderer\XYHSoftRenderer\include\Texture.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\VisualStudioProjects\XYHSoftRenderer\XYHSoftRenderer\src\Renderer.cpp(109,29): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\VisualStudioProjects\XYHSoftRenderer\XYHSoftRenderer\src\Renderer.cpp(109,19): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\VisualStudioProjects\XYHSoftRenderer\XYHSoftRenderer\src\Renderer.cpp(116,33): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\VisualStudioProjects\XYHSoftRenderer\XYHSoftRenderer\src\Renderer.cpp(116,23): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+  Shader.cpp
+D:\VisualStudioProjects\XYHSoftRenderer\XYHSoftRenderer\src\Shader.cpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\VisualStudioProjects\XYHSoftRenderer\XYHSoftRenderer\include\Shader.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\VisualStudioProjects\XYHSoftRenderer\XYHSoftRenderer\include\Vector.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\VisualStudioProjects\XYHSoftRenderer\XYHSoftRenderer\include\Matrix.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\VisualStudioProjects\XYHSoftRenderer\XYHSoftRenderer\include\Object.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\VisualStudioProjects\XYHSoftRenderer\XYHSoftRenderer\include\MyMath.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\VisualStudioProjects\XYHSoftRenderer\XYHSoftRenderer\include\Texture.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  Texture.cpp
+D:\VisualStudioProjects\XYHSoftRenderer\XYHSoftRenderer\src\Texture.cpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\VisualStudioProjects\XYHSoftRenderer\XYHSoftRenderer\include\Texture.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\VisualStudioProjects\XYHSoftRenderer\XYHSoftRenderer\include\MyMath.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\VisualStudioProjects\XYHSoftRenderer\XYHSoftRenderer\include\Vector.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\VisualStudioProjects\XYHSoftRenderer\XYHSoftRenderer\include\Matrix.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\VisualStudioProjects\XYHSoftRenderer\XYHSoftRenderer\src\Texture.cpp(291,27): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+D:\VisualStudioProjects\XYHSoftRenderer\XYHSoftRenderer\src\Texture.cpp(291,15): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+D:\VisualStudioProjects\XYHSoftRenderer\XYHSoftRenderer\src\Texture.cpp(291,14): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+D:\VisualStudioProjects\XYHSoftRenderer\XYHSoftRenderer\src\Texture.cpp(292,28): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+D:\VisualStudioProjects\XYHSoftRenderer\XYHSoftRenderer\src\Texture.cpp(292,15): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+D:\VisualStudioProjects\XYHSoftRenderer\XYHSoftRenderer\src\Texture.cpp(292,14): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+  Vector.cpp
+D:\VisualStudioProjects\XYHSoftRenderer\XYHSoftRenderer\include\Vector.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  Window.cpp
+D:\VisualStudioProjects\XYHSoftRenderer\XYHSoftRenderer\src\Window.cpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\VisualStudioProjects\XYHSoftRenderer\XYHSoftRenderer\include\Window.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\VisualStudioProjects\XYHSoftRenderer\XYHSoftRenderer\include\Buffer.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\VisualStudioProjects\XYHSoftRenderer\XYHSoftRenderer\include\Vector.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\VisualStudioProjects\XYHSoftRenderer\XYHSoftRenderer\include\Object.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\VisualStudioProjects\XYHSoftRenderer\XYHSoftRenderer\include\Matrix.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\VisualStudioProjects\XYHSoftRenderer\XYHSoftRenderer\include\MyMath.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\VisualStudioProjects\XYHSoftRenderer\XYHSoftRenderer\include\Shader.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\VisualStudioProjects\XYHSoftRenderer\XYHSoftRenderer\include\Texture.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  main.cpp
+D:\VisualStudioProjects\XYHSoftRenderer\XYHSoftRenderer\src\main.cpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\VisualStudioProjects\XYHSoftRenderer\XYHSoftRenderer\include\Window.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\VisualStudioProjects\XYHSoftRenderer\XYHSoftRenderer\include\Buffer.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\VisualStudioProjects\XYHSoftRenderer\XYHSoftRenderer\include\Vector.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\VisualStudioProjects\XYHSoftRenderer\XYHSoftRenderer\include\Object.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\VisualStudioProjects\XYHSoftRenderer\XYHSoftRenderer\include\Matrix.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\VisualStudioProjects\XYHSoftRenderer\XYHSoftRenderer\include\MyMath.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\VisualStudioProjects\XYHSoftRenderer\XYHSoftRenderer\include\Shader.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\VisualStudioProjects\XYHSoftRenderer\XYHSoftRenderer\include\Texture.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\VisualStudioProjects\XYHSoftRenderer\XYHSoftRenderer\include\Camera.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\VisualStudioProjects\XYHSoftRenderer\XYHSoftRenderer\include\ObjFileReader.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\VisualStudioProjects\XYHSoftRenderer\XYHSoftRenderer\src\main.cpp(760,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  正在生成代码
+  Previous IPDB not found, fall back to full compilation.
+  All 1243 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  XYHSoftRenderer.vcxproj -> D:\VisualStudioProjects\XYHSoftRenderer\x64\Release\XYHSoftRenderer.exe
